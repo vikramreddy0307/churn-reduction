@@ -26,7 +26,7 @@ The predictors provided are as follows:
 17.number of customer service calls made
 
 Target Variable :
-move: if the customer has moved (1=yes; 0 = no
+move: if the customer has moved (1=yes; 0 = no)
 
 I have used data provided by the company that has customer usage pattern and if the customer has moved or not.
 
