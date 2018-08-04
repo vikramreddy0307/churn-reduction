@@ -3,11 +3,6 @@ Churn (loss of customers to competition) is a problem for companies because it i
 
 This problem statement is targeted at enabling churn reduction using analytics concepts.
 
-For this project we will be evaluating a dataset composed of human resources data.
-
-Our objective is to build a model (or models) that predict whether or not an employee is likely to leave his/her job based on characteristics in the dataset. 
-
-
 We should  develop an algorithm to predict the churn score based on usage
 pattern. 
 The predictors provided are as follows:
@@ -32,3 +27,7 @@ The predictors provided are as follows:
 
 Target Variable :
 move: if the customer has moved (1=yes; 0 = no
+
+I have used data provided by the company that has customer usage pattern and if the customer has moved or not.
+
+I have done analysis on the factors that are affecting the churn and have designed a model that predicts the customer behaviour and made a complete report of the project.
