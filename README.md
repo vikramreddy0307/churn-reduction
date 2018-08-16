@@ -59,4 +59,13 @@ move: if the customer has moved (1=yes; 0 = no)
 # Evaluation metrics:
 * Predicting probabilities
 * ROC curve
+* Finding threshold
+* Applying threshold to the predicted probabilities
+* Confusion matrix
+
+
+# Results
+* ROC curve for each model
+* Accuracy,Sensitivity and specificity
+* Comparison of all models in R and Python
 
